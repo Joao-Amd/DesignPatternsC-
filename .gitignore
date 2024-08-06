@@ -1,0 +1,50 @@
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Rider directories
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Log files
+*.log
+
+# User-specific files
+*.rsuser
+
+# Backup & Report files
+*.bak
+*.orig
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of the presence of 'project.json' or 'packages.config' file in it.
+# Uncomment if necessary.
+# **/packages/*
+# Uncomment if necessary.
+# **/installedPackages/
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# OS generated files
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes

@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criacional.FactoryMethod", "FactoryMethod\Criacional.FactoryMethod.csproj", "{F4402149-52FA-4638-A833-751DD5F2B748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criacional.AbstractFactory", "AbstractFactory\Criacional.AbstractFactory.csproj", "{34F7B438-F45C-45BD-B2C7-56123E38F064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Criacional.Builder", "Builder\Criacional.Builder.csproj", "{541BDEEB-C357-4338-A795-481C0A0A657C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutural.Adpter", "Adpter\Estrutural.Adpter.csproj", "{B6C519AE-0E7C-47FF-921F-50C59C41961B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estrutural.Bridge", "Estrutural.Bridge\Estrutural.Bridge.csproj", "{34FAD5B4-2670-418C-B85E-E56EE1F51F27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comportamental.ChainOfResponsibility", "Comportamental.ChainOfResponsibility\Comportamental.ChainOfResponsibility.csproj", "{AF2D3CC5-0AF6-42E0-9E61-4915847AB5AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4402149-52FA-4638-A833-751DD5F2B748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4402149-52FA-4638-A833-751DD5F2B748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4402149-52FA-4638-A833-751DD5F2B748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4402149-52FA-4638-A833-751DD5F2B748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F7B438-F45C-45BD-B2C7-56123E38F064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F7B438-F45C-45BD-B2C7-56123E38F064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F7B438-F45C-45BD-B2C7-56123E38F064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F7B438-F45C-45BD-B2C7-56123E38F064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{541BDEEB-C357-4338-A795-481C0A0A657C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{541BDEEB-C357-4338-A795-481C0A0A657C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{541BDEEB-C357-4338-A795-481C0A0A657C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{541BDEEB-C357-4338-A795-481C0A0A657C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6C519AE-0E7C-47FF-921F-50C59C41961B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6C519AE-0E7C-47FF-921F-50C59C41961B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6C519AE-0E7C-47FF-921F-50C59C41961B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6C519AE-0E7C-47FF-921F-50C59C41961B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34FAD5B4-2670-418C-B85E-E56EE1F51F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34FAD5B4-2670-418C-B85E-E56EE1F51F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34FAD5B4-2670-418C-B85E-E56EE1F51F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34FAD5B4-2670-418C-B85E-E56EE1F51F27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2D3CC5-0AF6-42E0-9E61-4915847AB5AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2D3CC5-0AF6-42E0-9E61-4915847AB5AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2D3CC5-0AF6-42E0-9E61-4915847AB5AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2D3CC5-0AF6-42E0-9E61-4915847AB5AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9FD2B7CB-1CB2-4DAF-9A0A-27578D9EAEB5}
+	EndGlobalSection
+EndGlobal
